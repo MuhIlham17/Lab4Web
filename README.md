@@ -15,4 +15,5 @@
 # 1. Tambahkan Layout untuk menu About buat single layout yang berisi deskripsi, portfolio
 
 # 2. Tambahkan layout untuk menu Contact yang berisi form isian: nama, email, message
+![image](https://github.com/user-attachments/assets/56ded791-640e-43ba-bc2b-06b783e8309c)
 
