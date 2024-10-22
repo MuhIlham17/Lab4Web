@@ -14,7 +14,7 @@
 # Tugas !
 # 1. Tambahkan Layout untuk menu About buat single layout yang berisi deskripsi, portfolio
 ![image](https://github.com/user-attachments/assets/61f84785-7972-4aac-a8fd-835d19b28eb3)
-# Membuat tampilah web simple menggunakan htm dan css
+# Membuat tampilah web simple menggunakan html dan css
 ![image](https://github.com/user-attachments/assets/d4becd21-1d7e-42ee-82d8-dbaf456ecd11)
 
 # 2. Tambahkan layout untuk menu Contact yang berisi form isian: nama, email, message
